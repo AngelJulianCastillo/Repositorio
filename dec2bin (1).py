@@ -12,7 +12,7 @@ def dec2bin(numero_decimal, numero_bits):
     while len(numero_binario) < numero_bits:      # añade 0's a la izquierda si hace falta
         numero_binario = "0" + numero_binario
     return numero_binario
-
+# decabin 1 deberia de funcionar
 # ----------------------------------------
 # MAIN
 # ----------------------------------------
